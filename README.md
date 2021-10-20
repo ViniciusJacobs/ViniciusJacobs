@@ -11,5 +11,5 @@
 
   
 - **Atuário**, com experiência no mercado de **seguros e previdência**. 
-- **Objetivo profissional:** atuar em empresas que valorizam a **Inovação**, **Machine Learnign** e **Inteligência de negócio com base em dados**.
+- **Objetivo profissional:** atuar em empresas que valorizam a **inovação**, **Machine Learnign** e **inteligência de negócio com base em dados**.
 
