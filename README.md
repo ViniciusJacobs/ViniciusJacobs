@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Vinícius Jacobs 👋
 
-<!--
-**ViniciusJacobs/ViniciusJacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estudando Machine Learning
+- 🧏‍♂️ Contate-me pelo email: vini_jacobs@hotmail.com
+- 😄 Pronouns: ele/dela
+- 🥇 **R lover**: Análise de dados/ ML / Shiny / Estatística
+- 🥇 **Python**:  Análise de dados/ ML
+- 🥈 **SQL** 
+- 🥈 **PowerBI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- **Atuário**, com experiência no mercado de **seguros e previdência**. 
+- **Objetivo profissional:** atuar em empresas que valorizam a **Inovação**, **Machine Learnign** e **Inteligência de negócio com base em dados**.
+
