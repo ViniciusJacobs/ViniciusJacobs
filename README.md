@@ -15,6 +15,10 @@
 
 **Projetos:**
 
+Análise de Crédito (**Em construção (R)**):
+
+https://github.com/ViniciusJacobs/BankLoan
+
 Dashboard desenvolvido em **R/Shiny** com dados de planos de Previdência:
 
 https://jacobsvinicius.shinyapps.io/appvf/?_ga=2.3848880.1299354202.1634829578-190590190.1627835126
