@@ -15,7 +15,7 @@
 
 **Projetos:**
 
-Análise de Crédito (**Em construção (R)**):
+Análise de Crédito (**Em construção (R + SQL)**):
 
 https://github.com/ViniciusJacobs/BankLoan
 
