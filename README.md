@@ -23,4 +23,5 @@ Storytelling desenvolvido no **Tableau:** https://public.tableau.com/app/profile
 
 Churn em cia de Telecom (**Python**): https://github.com/ViniciusJacobs/TelecomChurn/blob/main/Telecom.ipynb
 
+Modelo de Consumo (RL - **R**): https://github.com/ViniciusJacobs/Consumo-modelo-linear-
 
