@@ -3,7 +3,6 @@
 
 - 🌱 Estudando Machine Learning
 - 🧏‍♂️ Contate-me pelo email: vini_jacobs@hotmail.com
-- 🙂 Pronouns: ele/dela
 - 🥇 **R lover**: Análise de dados/ ML / Shiny / Estatística
 - 🥇 **Python**:  Análise de dados/ ML
 - 🥈 **SQL** 
