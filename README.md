@@ -4,6 +4,7 @@
 - 🌱 Estudando Machine Learning
 - 🧏‍♂️ Contate-me pelo email: vini_jacobs@hotmail.com
 - 🥇 **R lover**: Análise de dados/ ML / Shiny / Estatística
+- 🥇 **SAS**: Análise de dados/ Programming - SAS Certified Specialist: Base Programming Using SAS 9.4
 - 🥇 **Python**:  Análise de dados/ ML
 - 🥈 **SQL** 
 - 🥈 **PowerBI**
