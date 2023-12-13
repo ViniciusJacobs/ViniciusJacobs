@@ -15,6 +15,8 @@
 
 **Projetos:**
 
+Dashboard com métricas para empresa Cury Company, desenvolvido em **Python**. Utilizei o **Streamlit** para disponibilizar os dados em Cloud. O painel pode ser acessado através desse link: https://vjacobs-project-currycompany.streamlit.app/ . A **descrição do problema de negócio** e arquivos consta em: https://github.com/ViniciusJacobs/curry_company . 
+
 Dashboard desenvolvido em **R/Shiny** com dados de planos de Previdência: https://github.com/ViniciusJacobs/dashboarddados
 
 Análise de Crédito (**Em construção (R + SQL)**): https://github.com/ViniciusJacobs/BankLoan
