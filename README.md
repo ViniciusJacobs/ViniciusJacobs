@@ -12,7 +12,7 @@
 
 - **Analista de Dados**, atualmente trabalho no **Sicredi** na área de Compliance/Prevenção a Lavagem de Dinheiro, auxiliando na estratégia do time de negócios com soluções de dados. 
 - **Atuário**, com experiência no mercado de **seguros e previdência**. 
-- **Objetivo profissional:** atuar em empresas que valorizam a **inovação**, **Machine Learnign** e **inteligência de negócio com base em dados**.
+- **Objetivo profissional:** atuar em empresas que valorizam a **inovação**, **Machine Learning** e **inteligência de negócio com base em dados**.
 
 **Projetos:**
 
