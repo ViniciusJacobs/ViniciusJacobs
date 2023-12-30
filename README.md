@@ -15,7 +15,7 @@
 
 **Projetos:**
 
-Dashboard com métricas para empresa Cury Company, desenvolvido em **Python**. Utilizei o **Streamlit** para disponibilizar os dados em Cloud. O painel pode ser acessado através desse link: https://vjacobs-project-currycompany.streamlit.app/ . A **descrição do problema de negócio** e arquivos consta em: https://github.com/ViniciusJacobs/curry_company . 
+Dashboard com métricas para empresa Gastronote Explorer, desenvolvido em **Python**. Utilizei o **Streamlit** para disponibilizar os dados em Cloud. O painel pode ser acessado através desse link: https://viniciusjacobs-world-cuisines.streamlit.app/ . A **descrição do problema de negócio** e arquivos consta em: https://github.com/ViniciusJacobs/world_cuisines. 
 
 Dashboard desenvolvido em **R/Shiny** com dados de planos de Previdência: https://jacobsvinicius.shinyapps.io/appvf/
 
